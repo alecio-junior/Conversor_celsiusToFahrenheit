@@ -1,0 +1,1 @@
+Conversor de celsius para Fahrenheit desenvolvido em javascript na aula de javascript básico pela Gama Academy
